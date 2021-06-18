@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+1 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "D:/Courses/Sensor Fusion/Lidar/myProject/home/SFND_Lidar_Obstacle_Detection/out/build/x64-Debug/CMakeFiles/environment.dir/embed.manifest"
